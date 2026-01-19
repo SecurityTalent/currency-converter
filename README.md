@@ -5,7 +5,6 @@ A simple **currency converter** built with React using the [Frankfurter API](htt
 ## Demo
 
 ![Demo Screenshot](public/screenshot.png)  
-*Replace `screenshot.png` with an actual screenshot of your app.*
 
 ## Features
 
